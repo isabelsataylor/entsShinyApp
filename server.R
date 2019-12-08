@@ -15,7 +15,7 @@ server <- function(input, output) {
   
   # Setwd
   # setwd("C:/Users/itaylor/OneDrive - National Theatre/Enterprises")
-  setwd("~/Documents/NT Shiny App")
+  setwd("https://github.com/isabelsataylor/entsShinyApp.git")
   
   # Load data
   dashbaordData <- readRDS("entsDashboardData.rds")
